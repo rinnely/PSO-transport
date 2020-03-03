@@ -17,3 +17,5 @@ A company wants to visit a certain number of stores optimally given a k number o
 ## Solution:
 
 Due to the nature of the problem, PSO-MOhv algorithm was implemented, a multiobjective PSO based on hyper-volume.
+
+![alt text](https://github.com/rinnely/PSO-transport/blob/master/pso_clusters.png)
